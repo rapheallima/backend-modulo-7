@@ -10,5 +10,3 @@ Neste exercício, desenvolvi uma classe chamada `Moto` que representa uma motoci
 ## Método `fichaTecnica()`
 
 A classe inclui um método chamado `fichaTecnica()`, que exibe as informações da moto de forma organizada. Ao chamar esse método, você verá um resumo completo da motocicleta.
-
-# ate
